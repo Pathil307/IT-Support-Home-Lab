@@ -261,3 +261,31 @@ I plan to continue expanding my home lab by exploring:
 This project forms part of my practical learning portfolio as I prepare for entry-level IT Support / ICT Support opportunities.
 
 My long-term career goal is to progress into Network Engineering by continuously developing my knowledge of Windows administration, networking and IT infrastructure.
+
+---
+
+## Project Evidence
+
+The following screenshots provide evidence of the practical tasks completed during this home lab project.
+
+### 1. Virtual Lab Environment
+![VirtualBox Lab Environment](Screenshots/virtualbox-lab-environment.png)
+
+### 2. Active Directory User Management
+![Active Directory User Accounts](Screenshots/active-directory-user-accounts.png)
+
+### 3. Active Directory Security Groups
+![Active Directory Security Groups](Screenshots/active-directory-security-groups.png)
+
+### 4. Shared Folder
+![HR Shared Folder](Screenshots/hr-shared-folder.png)
+
+### 5.  Windows Server Network Configuration
+![Windows Server Network Configuration](Screenshots/windows-server-network-configuration.png)
+
+### 6. Network Connectivity Test
+![Windows 11 Server Connectivity](Screenshots/windows-11-server-connectivity.png)
+
+### 7. DNS Lookup Test
+![Windows 11 DNS Lookup](Screenshots/windows-11-dns-lookup.png)
+
